@@ -1,5 +1,5 @@
 within FirstSteps;
-
+// Kommentar fuer GitTest
 model Electrical1
 parameter Real R = 10 "Resistance";
 parameter Real L = 2 "Inductance";

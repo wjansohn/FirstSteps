@@ -1,7 +1,7 @@
 within FirstSteps;
 // Kommentar fuer GitTest
 model Electrical1
-parameter Real R = 10 "Resistance";
+parameter Real R = 20 "Resistance";
 parameter Real L = 2 "Inductance";
 parameter Real v = 20 "Total DC Voltage";
 Real vR "Voltage drop at Resistor";
